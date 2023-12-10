@@ -1,1 +1,99 @@
-{"record":{"jobs":[{"JobId":1,"JobTitle":"Software Engineer","Qualification":"Bachelor's Degree in Computer Science","minSalaryIn$":60000,"maxSalaryIn$":100000,"experienceRequiredInYears":3,"skills":["Java","Software Development","Problem Solving"],"jobLocation":"San Francisco","gradeLevel":["Intermediate","Senior"]},{"JobId":2,"JobTitle":"Data Scientist","Qualification":"Master's Degree in Data Science","minSalaryIn$":80000,"maxSalaryIn$":120000,"experienceRequiredInYears":5,"skills":["Machine Learning","Data Analysis","Python"],"jobLocation":"New York","gradeLevel":["Senior"]},{"JobId":3,"JobTitle":"Marketing Manager","Qualification":"Bachelor's Degree in Marketing","minSalaryIn$":70000,"maxSalaryIn$":110000,"experienceRequiredInYears":4,"skills":["Digital Marketing","Campaign Management","Market Research"],"jobLocation":"Los Angeles","gradeLevel":["Intermediate","Senior"]},{"JobId":4,"JobTitle":"Mathematics Teacher","Qualification":"Bachelor's Degree in Mathematics","minSalaryIn$":50000,"maxSalaryIn$":90000,"experienceRequiredInYears":3,"skills":["Innovative Teaching","Classroom Management","Mathematics"],"jobLocation":"Chicago","gradeLevel":["Primary","Intermediate"]},{"JobId":5,"JobTitle":"UX/UI Designer","Qualification":"Bachelor's Degree in Design","minSalaryIn$":60000,"maxSalaryIn$":95000,"experienceRequiredInYears":3,"skills":["User Interface Design","User Experience Research","Prototyping"],"jobLocation":"Seattle","gradeLevel":["Intermediate"]}]},"metadata":{"id":"657495f012a5d37659a57794","private":false,"createdAt":"2023-12-09T16:29:36.905Z"}}
+{
+  "record": {
+    "jobs": [
+      {
+        "JobId": 1,
+        "JobTitle": "Software Engineer",
+        "Qualification": "Bachelor's Degree in Computer Science",
+        "minSalaryIn$": 60000,
+        "maxSalaryIn$": 100000,
+        "experienceRequiredInYears": 3,
+        "skills": [
+          "Java",
+          "Software Development",
+          "Problem Solving"
+        ],
+        "jobLocation": "San Francisco",
+        "gradeLevel": [
+          "Intermediate",
+          "Senior"
+        ]
+      },
+      {
+        "JobId": 2,
+        "JobTitle": "Data Scientist",
+        "Qualification": "Master's Degree in Data Science",
+        "minSalaryIn$": 80000,
+        "maxSalaryIn$": 120000,
+        "experienceRequiredInYears": 5,
+        "skills": [
+          "Machine Learning",
+          "Data Analysis",
+          "Python"
+        ],
+        "jobLocation": "New York",
+        "gradeLevel": [
+          "Senior"
+        ]
+      },
+      {
+        "JobId": 3,
+        "JobTitle": "Marketing Manager",
+        "Qualification": "Bachelor's Degree in Marketing",
+        "minSalaryIn$": 70000,
+        "maxSalaryIn$": 110000,
+        "experienceRequiredInYears": 4,
+        "skills": [
+          "Digital Marketing",
+          "Campaign Management",
+          "Market Research"
+        ],
+        "jobLocation": "Los Angeles",
+        "gradeLevel": [
+          "Intermediate",
+          "Senior"
+        ]
+      },
+      {
+        "JobId": 4,
+        "JobTitle": "Mathematics Teacher",
+        "Qualification": "Bachelor's Degree in Mathematics",
+        "minSalaryIn$": 50000,
+        "maxSalaryIn$": 90000,
+        "experienceRequiredInYears": 3,
+        "skills": [
+          "Innovative Teaching",
+          "Classroom Management",
+          "Mathematics"
+        ],
+        "jobLocation": "Chicago",
+        "gradeLevel": [
+          "Primary",
+          "Intermediate"
+        ]
+      },
+      {
+        "JobId": 5,
+        "JobTitle": "UX/UI Designer",
+        "Qualification": "Bachelor's Degree in Design",
+        "minSalaryIn$": 60000,
+        "maxSalaryIn$": 95000,
+        "experienceRequiredInYears": 3,
+        "skills": [
+          "User Interface Design",
+          "User Experience Research",
+          "Prototyping"
+        ],
+        "jobLocation": "Seattle",
+        "gradeLevel": [
+          "Intermediate"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "id": "657495f012a5d37659a57794",
+    "private": false,
+    "createdAt": "2023-12-09T16:29:36.905Z"
+  }
+}
